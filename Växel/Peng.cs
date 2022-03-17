@@ -1,7 +1,6 @@
 ﻿using System;
-//jessika gyllström jesgyl-0
-//Inlämning 2 L0002B
-namespace Peng
+//jessika gyllström 
+namespace Change
 {
     class Program
     {
